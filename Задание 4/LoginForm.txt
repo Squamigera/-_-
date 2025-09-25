@@ -1,0 +1,14 @@
+LoginForm +
+
+AdminMainForm + => UsersForm, *
+ManagerMainForm + => PurchaseRequestsForm, ApplicationsForSaleForm, *
+PartnerMainForm = >
+SupplierMainForm
+
+MaterialForm
+PartnerForm
+SupplierForm
+ProductForm
+EmployeeForm
+MaterialTypeForm
+ProductTypeForm
